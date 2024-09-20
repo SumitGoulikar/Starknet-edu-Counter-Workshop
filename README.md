@@ -567,3 +567,5 @@ const constructor = myCallData.compile("constructor", {
 2. Follow the instructions from the terminal
 
 If the script finishes successfully your smart contract is ready to be used on Starknet testnet. Congratulations!
+#   S t a r k n e t - e d u - C o u n t e r - W o r k s h o p  
+ 
